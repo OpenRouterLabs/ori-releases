@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0+2daf720",
+  "builtFrom": "2daf7209811b15194be0c33df548cc3ada3b4491",
+  "builtAt": "2026-06-08T06:01:22Z",
+  "rollingTag": "cli-latest",
+  "assets": {
+    "cli": "ori.js",
+    "installer": "install.sh",
+    "version": "version"
+  }
+}
