@@ -1,7 +1,7 @@
 {
-  "version": "0.0.0+e701796",
-  "builtFrom": "e7017967e171bd1b35df9b56bb0adbcf5d3f59b5",
-  "builtAt": "2026-06-09T04:52:25Z",
+  "version": "0.0.0+592965f",
+  "builtFrom": "592965f2720b359f101e608a008c366f45df3c88",
+  "builtAt": "2026-06-09T05:50:57Z",
   "assets": {
     "cli": "ori.js",
     "installer": "install.sh",
