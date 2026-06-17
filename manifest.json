@@ -1,9 +1,17 @@
 {
-  "version": "0.0.0+b98cd74",
-  "builtFrom": "b98cd740a6a2f7b296c3618ad7812b90aef4fb83",
-  "builtAt": "2026-06-11T00:58:34Z",
+  "version": "0.0.0+5483e5c",
+  "builtFrom": "5483e5c57b71a6c755ed6a5dc528c972c0bd49fa",
+  "builtAt": "2026-06-17T20:43:24Z",
   "assets": {
-    "cli": "ori.js",
+    "binaries": {
+      "darwinArm64": "ori-darwin-arm64",
+      "darwinX64": "ori-darwin-x64",
+      "linuxX64": "ori-linux-x64",
+      "linuxArm64": "ori-linux-arm64",
+      "linuxX64Musl": "ori-linux-x64-musl",
+      "linuxArm64Musl": "ori-linux-arm64-musl"
+    },
+    "checksums": "SHA256SUMS",
     "installer": "install.sh",
     "version": "version"
   }
