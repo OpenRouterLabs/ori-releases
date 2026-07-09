@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0+c71b2ef",
-  "builtFrom": "c71b2ef3149a5fda02d20be0c5b21a5a87ec0491",
-  "builtAt": "2026-07-09T05:38:20Z",
+  "version": "0.2.0+d68437f",
+  "builtFrom": "d68437fac16fee70bcc346fb58fba5ea8d45d35c",
+  "builtAt": "2026-07-09T07:18:08Z",
   "assets": {
     "binaries": {
       "darwinArm64": "ori-darwin-arm64",
