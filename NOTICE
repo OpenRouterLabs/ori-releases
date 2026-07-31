@@ -3,6 +3,6 @@ Copyright 2026 OpenRouter
 
 This product includes software developed at OpenRouter (https://openrouter.ai/).
 
-The released `ori` binaries are built from a source tree that is not part of this
-repository and bundle third-party components. Those components remain licensed
-under their own terms.
+The released `ori` binaries are built from an Apache-2.0 source tree that is not
+part of this repository, and bundle third-party components. Those components
+remain licensed under their own terms.
