@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4+662198a",
-  "builtFrom": "662198a51e9d369e262053ebcc85cfb522e26e24",
-  "builtAt": "2026-07-29T00:35:13Z",
+  "version": "0.3.0+d720dfd",
+  "builtFrom": "d720dfd52acfed333749d2e2f12a0f175310bb3f",
+  "builtAt": "2026-08-01T18:26:30Z",
   "assets": {
     "binaries": {
       "darwinArm64": "ori-darwin-arm64",
@@ -12,7 +12,6 @@
       "linuxArm64Musl": "ori-linux-arm64-musl"
     },
     "checksums": "SHA256SUMS",
-    "docs": "docs-bundle.json",
     "installer": "install.sh",
     "version": "version"
   }
