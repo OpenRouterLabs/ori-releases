@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0+a8bce0b",
-  "builtFrom": "a8bce0ba2475c5046c08ba9925915e37b2a4298e",
-  "builtAt": "2026-08-03T14:57:28Z",
+  "version": "0.4.0+063b32e",
+  "builtFrom": "063b32e4e7d37cef76ca857d19af883014006141",
+  "builtAt": "2026-08-03T15:31:55Z",
   "assets": {
     "binaries": {
       "darwinArm64": "ori-darwin-arm64",
@@ -13,6 +13,7 @@
     },
     "checksums": "SHA256SUMS",
     "installer": "install.sh",
-    "version": "version"
+    "version": "version",
+    "source": "ori-source.tar.gz"
   }
 }
