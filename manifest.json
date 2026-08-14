@@ -1,7 +1,4 @@
 {
-  "version": "0.7.0+0361ace",
-  "builtFrom": "0361aceeb1919c8f7a531c52321dce1ef2f3c2a3",
-  "builtAt": "2026-08-13T16:47:34Z",
   "assets": {
     "binaries": {
       "darwinArm64": "ori-darwin-arm64",
@@ -14,5 +11,8 @@
     "checksums": "SHA256SUMS",
     "installer": "install.sh",
     "version": "version"
-  }
+  },
+  "builtAt": "2026-08-14T00:33:48Z",
+  "builtFrom": "40f659d8eb07cf5d458f1aa37fdcea65e6379de5",
+  "version": "0.7.0+40f659d"
 }
