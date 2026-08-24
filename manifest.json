@@ -12,7 +12,7 @@
     "installer": "install.sh",
     "version": "version"
   },
-  "builtAt": "2026-08-23T17:14:00Z",
-  "builtFrom": "3c670becb112729e71624c8efd765a4af6f902b2",
-  "version": "0.10.0+3c670be"
+  "builtAt": "2026-08-24T16:35:42Z",
+  "builtFrom": "b41708fcaca31a709d9134c63fbcb92e75a9e5c2",
+  "version": "0.10.1+b41708f"
 }
