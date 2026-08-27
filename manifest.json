@@ -6,13 +6,14 @@
       "linuxX64": "ori-linux-x64",
       "linuxArm64": "ori-linux-arm64",
       "linuxX64Musl": "ori-linux-x64-musl",
-      "linuxArm64Musl": "ori-linux-arm64-musl"
+      "linuxArm64Musl": "ori-linux-arm64-musl",
+      "windowsX64": "ori-windows-x64.exe"
     },
     "checksums": "SHA256SUMS",
     "installer": "install.sh",
     "version": "version"
   },
-  "builtAt": "2026-08-26T21:11:53Z",
-  "builtFrom": "fe989062aa5da17fd05aa9a4a53fb04b2618fbb9",
-  "version": "0.11.0+fe98906"
+  "builtAt": "2026-08-27T20:17:13Z",
+  "builtFrom": "68f9a3651b7dd485bfba8cbabfcd9633445d72d6",
+  "version": "0.12.0+68f9a36"
 }
