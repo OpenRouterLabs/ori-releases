@@ -10,10 +10,20 @@
       "windowsX64": "ori-windows-x64.exe"
     },
     "checksums": "SHA256SUMS",
+    "compressedBinaries": {
+      "darwinArm64": "ori-darwin-arm64.gz",
+      "darwinX64": "ori-darwin-x64.gz",
+      "linuxX64": "ori-linux-x64.gz",
+      "linuxArm64": "ori-linux-arm64.gz",
+      "linuxX64Musl": "ori-linux-x64-musl.gz",
+      "linuxArm64Musl": "ori-linux-arm64-musl.gz",
+      "windowsX64": "ori-windows-x64.exe.gz"
+    },
     "installer": "install.sh",
+    "patches": "patches.json",
     "version": "version"
   },
-  "builtAt": "2026-09-12T05:08:51Z",
-  "builtFrom": "6e62568ba064e824b47e7ab84605ea96add75c21",
-  "version": "0.14.3+6e62568"
+  "builtAt": "2026-09-17T14:50:43Z",
+  "builtFrom": "531912d633572a611aeb4365bec519a0d6cf1778",
+  "version": "0.15.0+531912d"
 }
