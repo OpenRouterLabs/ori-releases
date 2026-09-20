@@ -23,7 +23,7 @@
     "patches": "patches.json",
     "version": "version"
   },
-  "builtAt": "2026-09-20T18:54:51Z",
-  "builtFrom": "11e921845d6bc7ed8d1ec633d498ccef6c509144",
-  "version": "0.15.3+11e9218"
+  "builtAt": "2026-09-20T20:45:58Z",
+  "builtFrom": "d52ba8e8d23df288f19ecaaad796f86d90e0034e",
+  "version": "0.15.4+d52ba8e"
 }
