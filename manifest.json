@@ -21,9 +21,10 @@
     },
     "installer": "install.sh",
     "patches": "patches.json",
+    "source": "ori-source.tar.gz",
     "version": "version"
   },
-  "builtAt": "2026-10-02T20:49:42Z",
-  "builtFrom": "4855f796ec26bf7c32b0ca92b07a26b6977d8b97",
-  "version": "0.15.6+4855f79"
+  "builtAt": "2026-10-10T00:01:26Z",
+  "builtFrom": "d702b9936d7641b6794821e53dccd5acb7920a8d",
+  "version": "0.15.7+d702b99"
 }
