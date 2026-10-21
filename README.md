@@ -28,7 +28,7 @@ Once installed, `ori update` moves you to the newest release.
 - `version`: the immutable version string for that build.
 - `LICENSE` and `NOTICE`: the terms the assets ship under.
 
-Releases are immutable. Each one is tagged `cli-<version>-<commit>` and is never rewritten, so a pinned tag keeps resolving to the same bytes.
+Releases are immutable. Each one is tagged `cli-<version>-<commit>` and is never rewritten, so a pinned tag keeps resolving to the same bytes. Stable releases are kept forever. Alpha (pre-release) releases are kept for 14 days and then deleted, except the current alpha and the one before it, so pin a stable rather than an alpha.
 
 ## Verify a download
 
