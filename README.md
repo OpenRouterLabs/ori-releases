@@ -27,6 +27,7 @@ Once installed, `ori update` moves you to the newest release.
 - `SHA256SUMS`: SHA-256 checksums for every asset in the release.
 - `version`: the immutable version string for that build.
 - `changelog.mdx`: the curated Ori release notes up to that build, rendered as the public docs changelog page.
+- `telemetry-vocabulary.json`: the log messages, metric names, span names and attribute values that build can send, which OpenRouter's telemetry ingest allowlists.
 - `LICENSE` and `NOTICE`: the terms the assets ship under.
 
 Releases are immutable. Each one is tagged `cli-<version>-<commit>` and is never rewritten, so a pinned tag keeps resolving to the same bytes. Stable releases are kept forever. Alpha (pre-release) releases are kept for 14 days and then deleted, except the current alpha and the one before it, so pin a stable rather than an alpha.
