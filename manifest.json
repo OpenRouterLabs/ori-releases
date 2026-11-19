@@ -24,7 +24,7 @@
     "source": "ori-source.tar.gz",
     "version": "version"
   },
-  "builtAt": "2026-11-17T21:58:12Z",
-  "builtFrom": "1f502b92ea0e3ced4368e5c11c83c8eb88809a85",
-  "version": "0.17.1+1f502b9"
+  "builtAt": "2026-11-19T20:55:52Z",
+  "builtFrom": "eaad61dfa8db26ce98721fafca19a19df436aba3",
+  "version": "0.17.2+eaad61d"
 }
